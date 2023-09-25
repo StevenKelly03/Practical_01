@@ -89,5 +89,22 @@ int main()
 	cout << "Print Missile Target Position" << endl;
 	m->target.coordinates.print();
 
+	cout << "********************* Select Warhead: **********************"<< endl;
+
+
+	cout << "Acquire Target" << endl;
+
+	cout << "Launch Code" << endl;
+
+	cout << "Arm Missile" << endl;
+
+	cout << "Collision" << endl;
+
+	cout << "Destroy Target" << endl;
+
+	cout << "Viable" << endl;
+
+	cout << "Deactivate" << endl;
+
 	cin.get();
 }
